@@ -1,7 +1,7 @@
 function Main(){
     return(
         <>
-        <h1>ORGANIC OIL</h1>
+        <h1>ORGANIC OIL STORE</h1>
 
         </>
     )
